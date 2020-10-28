@@ -70,7 +70,7 @@ alt="A picture of foggy Wales mountains" style="width:50%;height:50%;" class="ce
 
 <br>
 
-<table style="color: #fff0f0; font-size: 120%" class="center">
+<table style="font-size: 120%">
   <tr style="font-size: 130%">
     <th>Welsh</th>
     <th>English</th>
